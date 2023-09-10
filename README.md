@@ -13,8 +13,6 @@ Dataset link -  https://www.kaggle.com/datasets/patriciabrezeanu/big-cats-image-
 
 Feel free to explore the code and results in this repository to learn more about the process and outcomes of our Big Cats Species Prediction project.
 
-You can use this description when creating your GitHub repository to provide a clear overview of your project to potential viewers and collaborators.
-
 
 
 
